@@ -13,4 +13,5 @@ The webpage features a responsive layout and a timeline of key events in Apple's
 The timeline includes images, dates, and descriptions of each event, and is styled using CSS to make it visually appealing and easy to read.
 
 ## UI
-<img width="582" alt="Screen Shot 2023-04-27 at 12 01 08 PM" src="https://user-images.githubusercontent.com/93438683/234919934-08952742-3822-423a-a12e-ff93af5fb496.png">
+
+![_Users_avieng_freecodecamp_project2_index html](https://user-images.githubusercontent.com/93438683/234922830-dab2f2ff-27da-479c-9a2f-9652b59ca0ce.png)
