@@ -1,0 +1,86 @@
+*{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+  
+#header {
+  height: auto;
+  background-color: black;
+  color:white;
+  display:flex;
+  flex-direction: column;
+  position: absolute;
+  justify-content:center;
+  text-align: center;
+  border-radius: 60px;
+  width: 90%;
+  padding: 6px 0px 0px 0px;
+  margin: 20px auto;   
+}  
+#header:hover{
+  box-shadow: 0px 0px 35px rgb(90, 88, 88);
+}
+
+.header-container{
+  display:flex;
+  justify-content: center;
+  padding-bottom: 35px;
+}
+  
+header #title {
+  font-size: 27px;
+  text-shadow: 2px 2px #333;
+  margin: 1px auto;
+}
+  
+header #description{
+  margin: auto;
+  padding-bottom: 11px;
+}
+  
+#image{
+display: block;
+  width:80%;
+  height: auto;
+  object-fit: cover;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right:auto;  
+}
+
+figcaption{
+  font-size: 10px;
+  text-align: center;
+}
+
+.fact-container{
+  border: 2px solid black;
+  padding: 30px 20px 10px 20px;
+  text-align: center;
+  margin: 20px auto;
+  box-shadow:10px 5px 5px #D2CECE;
+}
+
+
+.indent {
+  margin-left: 20px;
+}
+
+blockquote{
+  font-style: italic;
+  border-bottom: 1px solid;
+  padding: 10px;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+}
+
+.center{
+  text-align: center;
+}
+
+#tribute-info li {
+  padding-bottom: 10px;
+  margin-left: 30px;
+}
